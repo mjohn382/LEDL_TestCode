@@ -1,0 +1,84 @@
+<!DOCTYPE CrossStudio_for_MSP430_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints>
+  <BreakpointListItem line="31" action="" hardwareBreakpoint="" trigger="" useHWbreakpoint="false" group="Breakpoints" type="Breakpoint" state="2" counter="0" isFunctionBreakpoint="false" filename="Z:\Software\MorganMSP\LEDL_TestCode\I2C_sensor.c" expression="" />
+  <BreakpointListItem line="33" action="" hardwareBreakpoint="" trigger="" useHWbreakpoint="false" group="Breakpoints" type="Breakpoint" state="2" counter="0" isFunctionBreakpoint="false" filename="Z:\Software\MorganMSP\LEDL_TestCode\I2C_sensor.c" expression="" />
+  <BreakpointListItem line="38" action="" hardwareBreakpoint="" trigger="" useHWbreakpoint="false" group="Breakpoints" type="Breakpoint" state="2" counter="0" isFunctionBreakpoint="false" filename="Z:\Software\MorganMSP\LEDL_TestCode\I2C_sensor.c" expression="" />
+ </Breakpoints>
+ <EEMRegistersWindow>
+  <EEMRegisters moduleClockControl="60d7" generalClockControl="2e" />
+ </EEMRegistersWindow>
+ <EEMStateStorageWindow>
+  <EEMStateStorage control="2" />
+ </EEMStateStorageWindow>
+ <EEMTriggerSequencerWindow>
+  <EEMTriggers seqnxtstate0="0" seqnxtstate1="0" seq_ctl="0" seqaction="" />
+ </EEMTriggerSequencerWindow>
+ <EEMTriggersWindow/>
+ <ExecutionCountWindow/>
+ <Memory1>
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" addressSpace="" />
+ </Memory1>
+ <Memory2>
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" addressSpace="" />
+ </Memory2>
+ <Memory3>
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" addressSpace="" />
+ </Memory3>
+ <Memory4>
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" addressSpace="" />
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="LEDL_TestCode" name="unnamed" />
+  <ProjectSessionItem path="LEDL_TestCode;LEDL_TestCode" name="unnamed" />
+  <ProjectSessionItem path="LEDL_TestCode;LEDL_TestCode;Source Files" name="unnamed" />
+ </Project>
+ <Register1>
+  <RegisterWindow openNodes="Basic Clock Module+;Basic Clock Module+/DCOCTL;Basic Clock Module+/BCSCTL1;TLV Calibration Data" binaryNodes="" hiddenNodes="" unsignedNodes="" visibleGroups="Basic Clock Module+;TLV Calibration Data" decimalNodes="" octalNodes="" asciiNodes="" />
+ </Register1>
+ <Register2>
+  <RegisterWindow openNodes="" binaryNodes="" hiddenNodes="" unsignedNodes="" visibleGroups="" decimalNodes="" octalNodes="" asciiNodes="" />
+ </Register2>
+ <Register3>
+  <RegisterWindow openNodes="" binaryNodes="" hiddenNodes="" unsignedNodes="" visibleGroups="" decimalNodes="" octalNodes="" asciiNodes="" />
+ </Register3>
+ <Register4>
+  <RegisterWindow openNodes="" binaryNodes="" hiddenNodes="" unsignedNodes="" visibleGroups="" decimalNodes="" octalNodes="" asciiNodes="" />
+ </Register4>
+ <TargetWindow programAction="" uploadFileType="" programLoadAddress="" programSize="" uploadFileName="" uploadMemoryInterface="" programFileName="" uploadStartAddress="" programFileType="" uploadSize="" programMemoryInterface="" />
+ <TraceWindow>
+  <Trace enabled="Yes" />
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never" >
+   <Watchpoint linenumber="38" radix="16" name="array" expression="array" filename="z:/software/morganmsp/ledl_testcode/i2c_sensor.c" />
+   <Watchpoint linenumber="71" radix="16" name="check_value_rx" expression="check_value_rx" filename="z:/software/morganmsp/ledl_testcode/i2c_sensor.c" />
+   <Watchpoint linenumber="34" radix="-1" name="tmp[0]" expression="tmp[0]" filename="z:/software/morganmsp/ledl_testcode/i2c_sensor.c" />
+   <Watchpoint linenumber="31" radix="-1" name="check_value_tx1" expression="check_value_tx1" filename="z:/software/morganmsp/ledl_testcode/i2c_sensor.c" />
+   <Watchpoint linenumber="26" radix="-1" name="check_value_tx" expression="check_value_tx" filename="z:/software/morganmsp/ledl_testcode/i2c_sensor.c" />
+  </Watches>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never" />
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never" />
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never" />
+ </Watch4>
+ <Files>
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="29" debugPath="Z:\Software\MorganMSP\LEDL_TestCode\I2C_sensor.h" y="14" path="Z:\Software\MorganMSP\LEDL_TestCode\I2C_sensor.h" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="13" debugPath="Z:\Software\MorganMSP\LEDL_TestCode\timer_setup.c" y="65" path="Z:\Software\MorganMSP\LEDL_TestCode\timer_setup.c" left="0" selected="0" name="unnamed" top="3" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="Z:\software\morganmsp\ledl_testcode\SensorsOnOff.c" y="83" path="Z:\software\morganmsp\ledl_testcode\SensorsOnOff.c" left="0" selected="0" name="unnamed" top="27" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="Z:\software\morganmsp\ledl_testcode\ADC_setup.h" y="9" path="Z:\software\morganmsp\ledl_testcode\ADC_setup.h" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="Z:\Software\MorganMSP\LEDL_TestCode\ADC_setup.c" y="0" path="Z:\Software\MorganMSP\LEDL_TestCode\ADC_setup.c" left="0" selected="0" name="unnamed" top="18" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="74" debugPath="Z:\Software\MorganMSP\LEDL_TestCode\log_data.c" y="119" path="Z:\Software\MorganMSP\LEDL_TestCode\log_data.c" left="0" selected="0" name="unnamed" top="8" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="Z:\Software\MorganMSP\LEDL_TestCode\main.c" y="37" path="Z:\Software\MorganMSP\LEDL_TestCode\main.c" left="0" selected="0" name="unnamed" top="28" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\Users\rocket\AppData\Local\Rowley Associates Limited\CrossWorks for MSP430\packages\include\msp430f2618.h" y="1104" path="C:\Users\rocket\AppData\Local\Rowley Associates Limited\CrossWorks for MSP430\packages\include\msp430f2618.h" left="0" selected="0" name="unnamed" top="1069" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="11" debugPath="Z:\Software\MorganMSP\LEDL_TestCode\I2C_sensor.c" y="37" path="Z:\Software\MorganMSP\LEDL_TestCode\I2C_sensor.c" left="0" selected="1" name="unnamed" top="6" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="Z:\Software\MorganMSP\LEDL_TestCode\log_data.h" y="7" path="Z:\Software\MorganMSP\LEDL_TestCode\log_data.h" left="0" selected="0" name="unnamed" top="0" />
+ </Files>
+ <MSP430CrossStudioWindow activeProject="LEDL_TestCode" autoConnectTarget="TI MSP-FET430UIF (JTAG)" debugSearchFileMap="" fileDialogInitialDirectory="C:\Program Files (x86)\Rowley Associates Limited\CrossWorks for MSP430 2.1\ctl\source" fileDialogDefaultFilter="*.c" autoConnectCapabilities="3455" debugSearchPath="" buildConfiguration="MSP430 Debug" />
+</session>
